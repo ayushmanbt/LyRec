@@ -1,0 +1,4 @@
+# All the environment files
+env
+venv
+virtualenv 

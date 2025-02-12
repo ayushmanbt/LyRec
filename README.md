@@ -4,9 +4,11 @@ Do you remember the last time you found yourself obsessing over a song? Maybe it
 
 I built ***LyRec*** (see what I did there? 😉), a recommendation system for songs, that lets you do this!
 
+> This is a forked verion of the original LyRec repository mainly used to understand the code and improve the webUI
+
 ## How it works?
 
-
+LyRec uses Lyrics to recommend you songs.
 
 ## Get the dataset and embeddings
 
